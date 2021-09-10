@@ -11,7 +11,14 @@ git push -u origin main
 <p>By the end of this project, I would like to be able to utilize this portfolio in a professional setting, be more familiar and comfortable with Wordpress, and have a formal portfolio that encapsulates all of the work I have done both in and outside of the JMU classrooms. </p>
 <h2>Audience/ Personas</h2>
 <h3>Sharon Jones</h3>
-<br><h4>”I am looking for a candidate to fill this position at my company who demonstrates a professional and creative portfolio, as we would like to hire someone with a strict attention to detail.”
+<p>"I am looking for a job candidate whose portfolio matches their design style. I want to see all the work they have accomplished in a professional yet creative format" </p> <br>
+<p> Characteristics: Passionate, creative, adventure-seeker</p>
+<h3> Nick Micheals</h3>
+<p> "As a hiring manager, I would like a job candidates portfolio to be direct, easy to navigate, and professional. I value work that does not look like a student made it." </p> <br>
+<p> Characteristics: strict, intelligent, persuasive</p?
+<h3> Martha Parker </h3>
+<p> "I value the design of everything in life; in a portfolio, I would not only love to see a well thought-out design, but also something unique. I love to be surprised." </p> <br>
+<p> Characteristics: Friendly, quirky, escentric </p>
 <h2> Timeline</h2>
 <ul>
 	<li>September 19: Reformation of Navigation Items </li>
@@ -22,4 +29,5 @@ git push -u origin main
 	<li>October 24: Finishing touches </li>
 <li>October 29: Project due date; Portfolio site will be functional and capable for professional use </li>
 
-<Visual Samples>
+<h2>Visual Samples </h2>
+	
