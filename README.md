@@ -15,7 +15,7 @@ git push -u origin main
 <p> Characteristics: Passionate, creative, adventure-seeker</p>
 <h3> Nick Micheals</h3>
 <p> "As a hiring manager, I would like a job candidates portfolio to be direct, easy to navigate, and professional. I value work that does not look like a student made it." </p> <br>
-<p> Characteristics: strict, intelligent, persuasive</p?
+<p> Characteristics: strict, intelligent, persuasive</p>
 <h3> Martha Parker </h3>
 <p> "I value the design of everything in life; in a portfolio, I would not only love to see a well thought-out design, but also something unique. I love to be surprised." </p> <br>
 <p> Characteristics: Friendly, quirky, escentric </p>
