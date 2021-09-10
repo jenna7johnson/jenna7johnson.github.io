@@ -1,6 +1,4 @@
 # jenna7johnson.github.io
-echo "Hello World" > index.html
-git push -u origin main
 
 <h1>Independent Project Proposal</h1>
 <h2> Project Name: Portfolio, Reimagined</h2>
