@@ -30,4 +30,4 @@ git push -u origin main
 <li>October 29: Project due date; Portfolio site will be functional and capable for professional use </li>
 
 <h2>Visual Samples </h2>
-	
+	![image](https://user-images.githubusercontent.com/90475541/132906083-095bc275-0fd9-4825-b47f-2d2a652b9096.png)
